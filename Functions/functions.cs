@@ -1,5 +1,5 @@
 
-namespace PracticeModulo.Functions;
+namespace Functions;
 
 public static class Shortcuts
 {
