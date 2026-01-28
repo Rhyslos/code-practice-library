@@ -38,9 +38,29 @@ public class OddOrEvenCheck
             return result;
         }
     }
+
+    public static bool CheckForNumber(int inputNumber)
+    {
+        bool checkedNumber;
+    
+        if (inputNumber % 2 == 0)
+        {
+            checkedNumber = true;
+        }
+        else
+        {
+            checkedNumber = false;
+        }
+        return checkedNumber;
+    }           
 }
 
+// What i have learned today:
+// Using Modulo to check if a number is odd or even with simple if statements
+// learned about namespace, class and methods
 
+// Things to read before moving on: (int) decleration before Methods
+// Considering how much AI i needed to correct small mistakes, i'm quite satisfied with the result
 
 
 
