@@ -1,0 +1,15 @@
+C:\Applications\Programming\code-practice-library\bin\Debug\net9.0\code-practice-library.exe
+C:\Applications\Programming\code-practice-library\bin\Debug\net9.0\code-practice-library.deps.json
+C:\Applications\Programming\code-practice-library\bin\Debug\net9.0\code-practice-library.runtimeconfig.json
+C:\Applications\Programming\code-practice-library\bin\Debug\net9.0\code-practice-library.dll
+C:\Applications\Programming\code-practice-library\bin\Debug\net9.0\code-practice-library.pdb
+C:\Applications\Programming\code-practice-library\obj\Debug\net9.0\code-practice-library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Applications\Programming\code-practice-library\obj\Debug\net9.0\code-practice-library.AssemblyInfoInputs.cache
+C:\Applications\Programming\code-practice-library\obj\Debug\net9.0\code-practice-library.AssemblyInfo.cs
+C:\Applications\Programming\code-practice-library\obj\Debug\net9.0\code-practice-library.csproj.CoreCompileInputs.cache
+C:\Applications\Programming\code-practice-library\obj\Debug\net9.0\code-practice-library.sourcelink.json
+C:\Applications\Programming\code-practice-library\obj\Debug\net9.0\code-practice-library.dll
+C:\Applications\Programming\code-practice-library\obj\Debug\net9.0\refint\code-practice-library.dll
+C:\Applications\Programming\code-practice-library\obj\Debug\net9.0\code-practice-library.pdb
+C:\Applications\Programming\code-practice-library\obj\Debug\net9.0\code-practice-library.genruntimeconfig.cache
+C:\Applications\Programming\code-practice-library\obj\Debug\net9.0\ref\code-practice-library.dll
