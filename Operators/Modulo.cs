@@ -4,32 +4,25 @@ namespace PracticeModulo;
 public class OddOrEvenCheck
 {
 
-    static void Main()
+    public static void Main()
     {
-        int num = 4;
-        bool isEven = CheckForNumber(num);
+
+        Console.WriteLine("Enter a number");
+
+        string textInput = Console.ReadLine();
+
+        double inputNumber = double.Parse(textInput);
+
+        int parsedNumber = (int)ConvertedNumber(inputNumber);
+
+        bool isEven = CheckForNumber(parsedNumber);
 
         System.Console.WriteLine(isEven);
     }
-
-    public static bool CheckForNumber(int num)
-    {
-        bool checkedNumber;
-    
-        if (num % 2 == 0)
-        {
-            return checkedNumber = true;
-        }
-        else
-        {
-            return checkedNumber = false;
-        }
-        return checkedNumber;
-    }           
 }
 
 
-// first modulo attempt
+// first modulo attempt, keeping because it's fun to see where i started from to what end result became
 
 /*
 public class OddOrEvenCheck
