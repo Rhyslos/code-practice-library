@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("code-practice-library")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51cf2d6565a3427b3a8f06a6aa986194f6ba2fef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+559fb9ea99b03a403a9fa7096eec9a181ab54be3")]
 [assembly: System.Reflection.AssemblyProductAttribute("code-practice-library")]
 [assembly: System.Reflection.AssemblyTitleAttribute("code-practice-library")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
